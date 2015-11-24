@@ -1,0 +1,2 @@
+# MOD
+Modular javascript architecture
